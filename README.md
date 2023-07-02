@@ -14,7 +14,7 @@
         🏫 Studying Information Technology at Bannari Amman Institute of Technology.
     </li>
     <li>
-        📑 Learning more about full stack 😴.
+        📑 Learning more about full stack 🚀🚀.
     </li>
     <li>
         ✍️ Pursuing coding as Hobby.
@@ -22,6 +22,9 @@
 </ul>
 </p>
 
+<p><img float="right" src="https://github-readme-stats.vercel.app/api?username=saravanan-2003&show_icons=true&locale=en" alt="saravanan-2003" /></p> 
+
+<p><img float="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan-2003&" alt="saravanan-2003" /></p>
 </body>
 </html>
 
