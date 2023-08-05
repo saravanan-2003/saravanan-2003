@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h3 align="center">I practice what I post.:-)</h3>
+<h3 align="center">I post what I practice.:-)</h3>
 <h2>Hi! 👋🏿 I’m  <a href="https://saravanan-2003.github.io/Portfolio/" rel="nofollow">Saravanan</a>(❁´◡`❁)</h2>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan-2003&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan-2003" /> </p>
     <img align="right"  alt="coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7139783/media/2de4b74e7998213b41266e7e6a7edf1a.png?compress=1&resize=400x300&vertical=center">
