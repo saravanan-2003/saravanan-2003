@@ -14,9 +14,6 @@
         🏫 Studying Information Technology at BIT.
     </li>
     <li>
-        📑 Learning more about full stack 🚀🚀.
-    </li>
-    <li>
         ✍️ Pursuing coding as Hobby.
     </li>
 </ul>
